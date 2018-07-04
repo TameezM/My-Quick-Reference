@@ -5,3 +5,6 @@ Few additonal revise interview stuff.
 https://www.codeproject.com/Articles/744082/WPF-Interview-questions-with-answers
 
 https://www.c-sharpcorner.com/UploadFile/8ef97c/most-asked-wpf-interview-questions-and-answers/
+
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/event
+
