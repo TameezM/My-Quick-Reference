@@ -167,3 +167,6 @@ values(
       from emp
     ) delete from cte where RN<>1
   */
+https://instrumentationtools.com/modbus-communication-interview-questions-answers/
+
+https://instrumentationtools.com/profibus-communication-interview-questions-answers/
