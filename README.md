@@ -170,3 +170,5 @@ values(
 https://instrumentationtools.com/modbus-communication-interview-questions-answers/
 
 https://instrumentationtools.com/profibus-communication-interview-questions-answers/
+
+https://online.visual-paradigm.com/tutorials/
