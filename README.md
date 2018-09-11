@@ -34,7 +34,8 @@ https://livesql.oracle.com/apex/livesql/file/content_O5AEB2HE08PYEPTGCFLZU9YCV.h
   */
   
   /*
-  
+  Azure Design Guide-Must read.
+  https://docs.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling
 
 
 create table dept(  
