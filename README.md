@@ -175,3 +175,5 @@ https://instrumentationtools.com/modbus-communication-interview-questions-answer
 https://instrumentationtools.com/profibus-communication-interview-questions-answers/
 
 https://online.visual-paradigm.com/tutorials/
+
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591559(v=pandp.10)
